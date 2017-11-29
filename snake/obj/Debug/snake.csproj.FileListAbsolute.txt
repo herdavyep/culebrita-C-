@@ -1,0 +1,50 @@
+F:\desarrollo apps\C#\snake\snake\bin\Debug\snake.exe.config
+F:\desarrollo apps\C#\snake\snake\bin\Debug\snake.exe
+F:\desarrollo apps\C#\snake\snake\bin\Debug\snake.pdb
+F:\desarrollo apps\C#\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+F:\desarrollo apps\C#\snake\snake\obj\Debug\snake.Form1.resources
+F:\desarrollo apps\C#\snake\snake\obj\Debug\snake.Properties.Resources.resources
+F:\desarrollo apps\C#\snake\snake\obj\Debug\snake.csproj.GenerateResource.Cache
+F:\desarrollo apps\C#\snake\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+F:\desarrollo apps\C#\snake\snake\obj\Debug\snake.exe
+F:\desarrollo apps\C#\snake\snake\obj\Debug\snake.pdb
+H:\desarrollo apps\C#\snake\snake\bin\Debug\snake.exe.config
+H:\desarrollo apps\C#\snake\snake\bin\Debug\snake.exe
+H:\desarrollo apps\C#\snake\snake\bin\Debug\snake.pdb
+H:\desarrollo apps\C#\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+H:\desarrollo apps\C#\snake\snake\obj\Debug\snake.Form1.resources
+H:\desarrollo apps\C#\snake\snake\obj\Debug\snake.Properties.Resources.resources
+H:\desarrollo apps\C#\snake\snake\obj\Debug\snake.csproj.GenerateResource.Cache
+H:\desarrollo apps\C#\snake\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+H:\desarrollo apps\C#\snake\snake\obj\Debug\snake.exe
+H:\desarrollo apps\C#\snake\snake\obj\Debug\snake.pdb
+C:\Users\Afuro\Desktop\snake\snake\bin\Debug\snake.exe.config
+C:\Users\Afuro\Desktop\snake\snake\bin\Debug\snake.exe
+C:\Users\Afuro\Desktop\snake\snake\bin\Debug\snake.pdb
+C:\Users\Afuro\Desktop\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+C:\Users\Afuro\Desktop\snake\snake\obj\Debug\snake.Form1.resources
+C:\Users\Afuro\Desktop\snake\snake\obj\Debug\snake.Properties.Resources.resources
+C:\Users\Afuro\Desktop\snake\snake\obj\Debug\snake.csproj.GenerateResource.Cache
+C:\Users\Afuro\Desktop\snake\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+C:\Users\Afuro\Desktop\snake\snake\obj\Debug\snake.exe
+C:\Users\Afuro\Desktop\snake\snake\obj\Debug\snake.pdb
+C:\Users\COORD LOGISTICA\Downloads\culebra\snake\bin\Debug\snake.exe.config
+C:\Users\COORD LOGISTICA\Downloads\culebra\snake\bin\Debug\snake.exe
+C:\Users\COORD LOGISTICA\Downloads\culebra\snake\bin\Debug\snake.pdb
+C:\Users\COORD LOGISTICA\Downloads\culebra\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+C:\Users\COORD LOGISTICA\Downloads\culebra\snake\obj\Debug\snake.Form1.resources
+C:\Users\COORD LOGISTICA\Downloads\culebra\snake\obj\Debug\snake.Properties.Resources.resources
+C:\Users\COORD LOGISTICA\Downloads\culebra\snake\obj\Debug\snake.csproj.GenerateResource.Cache
+C:\Users\COORD LOGISTICA\Downloads\culebra\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+C:\Users\COORD LOGISTICA\Downloads\culebra\snake\obj\Debug\snake.exe
+C:\Users\COORD LOGISTICA\Downloads\culebra\snake\obj\Debug\snake.pdb
+C:\Users\SALA E-15\Desktop\culebrita\snake\bin\Debug\snake.exe.config
+C:\Users\SALA E-15\Desktop\culebrita\snake\bin\Debug\snake.exe
+C:\Users\SALA E-15\Desktop\culebrita\snake\bin\Debug\snake.pdb
+C:\Users\SALA E-15\Desktop\culebrita\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+C:\Users\SALA E-15\Desktop\culebrita\snake\obj\Debug\snake.Form1.resources
+C:\Users\SALA E-15\Desktop\culebrita\snake\obj\Debug\snake.Properties.Resources.resources
+C:\Users\SALA E-15\Desktop\culebrita\snake\obj\Debug\snake.csproj.GenerateResource.Cache
+C:\Users\SALA E-15\Desktop\culebrita\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+C:\Users\SALA E-15\Desktop\culebrita\snake\obj\Debug\snake.exe
+C:\Users\SALA E-15\Desktop\culebrita\snake\obj\Debug\snake.pdb
